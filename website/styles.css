@@ -1,0 +1,26 @@
+html {
+    
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: #800303;
+  text-align: center; 
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h1 {
+    display: table; /* keep the background color wrapped tight */
+    margin: 0px auto 0px auto; /* keep the table centered */
+    padding:5px;font-size:40px;background-color:darkseagreen;
+}
+
+
+html 
